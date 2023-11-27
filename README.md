@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmdparsa&label=Profile%20views&color=0e75b6&style=flat" alt="mohmdparsa" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently focus on improving my skills such as learning ReactJS to become a frontend developer
 
 - 📫 How to reach me **mohmd.pars4@gmail.com**
 
