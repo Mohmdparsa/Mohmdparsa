@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **mohmd.pars4@gmail.com**
 
-- ⚡ Fun fact **I Love to draw and photography**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mmd.prs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmd.prs" height="30" width="40" /></a>
